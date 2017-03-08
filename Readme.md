@@ -1,3 +1,5 @@
+# graphics-census
+
 P#1: drawRectangles takes a list of numbers and draws a sequence of rectangles, each having the same width and their heights determined by the numbers in the list.
 
 P#2: drawRectangles makes a copy of the list, divides every number in the list by the max value in the list, and multiplies every number by a scaling factor 
